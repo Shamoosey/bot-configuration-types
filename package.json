@@ -1,0 +1,16 @@
+{
+  "name": "bot-configuration-types",
+  "version": "1.0.0",
+  "description": "Interfaces for the bot configuration site",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Shamus Osler",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.9",
+    "typescript": "^5.2.2"
+  }
+}
